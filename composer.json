@@ -1,12 +1,12 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "rjacksonm1/laravel-for-54",
+    "description": "The Laravel Framework.7",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "5.1.*"
+        "php": ">=5.4.0",
+        "rjacksonm1/laravel-framework-for-54": "5.1.*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
